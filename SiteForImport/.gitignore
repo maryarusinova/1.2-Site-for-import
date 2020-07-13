@@ -1,0 +1,12 @@
+.gitignore
+# well
+# comment 
+.DS_Store 
+/tmp/ 
+tmp/ 
+_old
+_backup
+Thumbs.db 
+
+*
+!.gitignore
